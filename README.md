@@ -52,17 +52,6 @@ Windows 10 で実行した際に UI が崩れてしまうのを改善するパ�
 開発された「かずばん」氏に感謝。
 
 ---
-## 「simplewall Ver.2.4.6」日本語言語ファイル
-その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新していました。  
-最新版は公式のアップデート機能がありますので、通常はそちらを使用ください。  
-Ver.2 系は アップデート実行後、都度上書きする必要がありますので注意してください。
-
-ダウンロード: [Ver.2.4.6 用 simplewall.lng](https://github.com/Rukoto/Study-Room/raw/master/simplewall-Japanese-Language-File/2.4.6/simplewall.lng)
-
-[COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
--「simplewall」の著作権は Henry++氏 にあります。
-
----
 ## 「Windows Update MiniTool 20.12.2016」日本語言語ファイル
 サードパーティ製 Windows Update クライアント「[Windows Update MiniTool](http://forum.ru-board.com/topic.cgi?forum=5&topic=48142)」の日本語言語ファイルです。  
 「WuMgr」と同期させるために、あえていくつかの訳文が原文と合致していません。  
