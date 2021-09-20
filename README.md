@@ -26,6 +26,18 @@ Ver.7.1.1 からローカリゼーションツール頼みの酷い翻訳にな�
 機械翻訳で有無を言わさず上書きする公式の対応に呆れたので、プロジェクトから去ることにしました。
 
 ---
+## 「Bandizip Ver.7.19」日本語言語ファイル/Webページ
+## 「Honeycam Ver.3.45」日本語言語ファイル/Webページ
+## 「Honeyview Ver.5.40」日本語言語ファイル/Webページ
+多機能アーカイバ「[Bandizip](https://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
+および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新していました。
+
+小生は「Honeyview」しか使用していないのですが、統一感を持たせるため他のアプリにも対応しました。  
+Webページの一部は翻訳者に変更できない部分があるため、この点にご留意ください。
+
+なお、「Bandicam」とこれらのアプリは管轄が違い、小生は「Bandicam」との関わりは一切ございません。
+
+---
 ## 「HashCheck Ver.2.4.0」日本語化パッチ
 [HashCheck_v2.4.0_x64-jp.exe](https://github.com/Rukoto/Study-Room/raw/master/HashCheck-2.4.0-Japanese-Patch/HashCheck_v2.4.0_x64-jp.exe)  
 [HashCheck_v2.4.0_x86-jp.exe](https://github.com/Rukoto/Study-Room/raw/master/HashCheck-2.4.0-Japanese-Patch/HashCheck_v2.4.0_x86-jp.exe)  
