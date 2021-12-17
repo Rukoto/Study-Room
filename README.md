@@ -26,9 +26,9 @@ Ver.7.1.1 からローカリゼーションツール頼みの酷い翻訳にな�
 機械翻訳で有無を言わさず上書きする公式の対応に呆れたので、プロジェクトから去ることにしました。
 
 ---
-## 「Bandizip Ver.7.19」日本語言語ファイル/Webページ
-## 「Honeycam Ver.3.45」日本語言語ファイル/Webページ
-## 「Honeyview Ver.5.40」日本語言語ファイル/Webページ
+## 「Bandizip Ver.7.22」日本語言語ファイル/Webページ
+## 「Honeycam Ver.3.50」日本語言語ファイル/Webページ
+## 「Honeyview Ver.5.45」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](https://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新していました。
 
@@ -62,6 +62,31 @@ NC データを DXF データに変換するアプリ「[NC2DXF3D](http://www.ve
 Windows 10 で実行した際に UI が崩れてしまうのを改善するパッチです。ただそれだけ。  
 非常に古いアプリですが、職場で緊急用の変換ツールとして使用しています。  
 開発された「かずばん」氏に感謝。
+
+---
+## 「simplewall Ver.3.6.1」日本語言語ファイル (作業用)
+その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新していました。  
+公式のアップデート機能がありますので、通常は公式版のままご使用ください。
+
+友人からの依頼品でしたが、COMODO に戻したそうなので更新を終了します。
+
+[COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
+-「simplewall」の著作権は Henry++氏 にあります。
+
+---
+## 「W10Privacy Ver.3.8.0.0」日本語対応言語ファイル
+Windows のプライバシー設定管理アプリ「[W10Privacy](https://www.w10privacy.de/)」の言語ファイルを更新していました。  
+機能的な部分の翻訳のみ完了させたものです。設定項目は翻訳しません。  
+
+ダウンロード: [Languages_ja-JP.ini](https://github.com/Rukoto/Study-Room/raw/master/W10Privacy-Japanese-Language-File/Languages_ja-JP.ini)  
+日本語化設定: [W10Privacy.ini](https://github.com/Rukoto/Study-Room/raw/master/W10Privacy-Japanese-Language-File/W10Privacy.ini)
+
+"%USERPROFILE%\AppData\Roaming\W10Privacy" に設定等は保存されています。
+
+PSWindowsUpdate を使用した Windows の更新プログラムの管理も可能ですが、  
+「WuMgr」のほうが圧倒的に便利なので、PSWindowsUpdate モジュールの使用は非推奨。
+
+-「W10Privacy」の著作権は Bernd Schuster氏 にあります。
 
 ---
 ## 「Windows Update MiniTool 20.12.2016」日本語言語ファイル
