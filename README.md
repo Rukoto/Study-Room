@@ -9,9 +9,10 @@
 
 ---
 ## 「Adblock Plus for IE Ver.1.6」日本語環境対応パッチ
-ダウンロード: [Adblock_Plus_for_IE-1.6jp.exe](https://github.com/Rukoto/Study-Room/raw/master/Adblock_Plus_for_IE-Japanese-Patch/Adblock_Plus_for_IE-1.6jp.exe)  
 広告をブロックする IE のアドオン「[Adblock Plus for IE](https://adblockplus.org/)」の日本語環境対応パッチを更新しています。  
 言語ファイルのわずかな修正と、[もちフィルタ](http://pokapoka.html.xdomain.jp/)の購読設定を連続して行うパッチとなっています。
+
+ダウンロード: [Adblock_Plus_for_IE-1.6jp.exe](https://github.com/Rukoto/Study-Room/raw/master/Adblock_Plus_for_IE-Japanese-Patch/Adblock_Plus_for_IE-1.6jp.exe)
 
 素晴らしいフィルター「もちフィルタ」を更新されておられる [もちお氏](https://github.com/eEIi0A5L) に感謝。
 
@@ -26,9 +27,9 @@ Ver.7.1.1 からローカリゼーションツール頼みの酷い翻訳にな�
 機械翻訳で有無を言わさず上書きする公式の対応に呆れたので、プロジェクトから去ることにしました。
 
 ---
-## 「Bandizip Ver.7.22」日本語言語ファイル/Webページ
-## 「Honeycam Ver.3.50」日本語言語ファイル/Webページ
-## 「Honeyview Ver.5.45」日本語言語ファイル/Webページ
+## 「Bandizip Ver.7.23」日本語言語ファイル/Webページ
+## 「Honeycam Ver.4.05」日本語言語ファイル/Webページ
+## 「Honeyview Ver.5.46」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](https://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新していました。
 
@@ -38,10 +39,22 @@ Webページの一部は翻訳者に変更できない部分があるため、�
 なお、「Bandicam」とこれらのアプリは管轄が違い、小生は「Bandicam」との関わりは一切ございません。
 
 ---
+## 「Howard Ver.1.94」日本語化パッチ
+メールチェッカー「[Homedale](https://www.the-sz.com/products/homedale/)」を日本語化するパッチです。  
+公式翻訳に対して、追加の翻訳、訳文修正、および UI フォントを変更します。  
+小生が手を加えた部分は権利放棄します。作者に迷惑をかけなければ自由にお使いください。
+
+ダウンロード: [Howard-1.94-jp.exe](https://github.com/Rukoto/Study-Room/raw/master/Howard-Japanese-Patch/Howard-1.94-jp.exe)
+
+-「Howard」の著作権は the sz development にあります。
+
+---
 ## 「HashCheck Ver.2.4.0」日本語化パッチ
+シェル統合型ハッシュ計算アプリ「[HashCheck](https://github.com/gurnec/HashCheck)」の日本語文字列＆プロパティUIの改善パッチ(インストーラー)です。
+
 [HashCheck_v2.4.0_x64-jp.exe](https://github.com/Rukoto/Study-Room/raw/master/HashCheck-2.4.0-Japanese-Patch/HashCheck_v2.4.0_x64-jp.exe)  
-[HashCheck_v2.4.0_x86-jp.exe](https://github.com/Rukoto/Study-Room/raw/master/HashCheck-2.4.0-Japanese-Patch/HashCheck_v2.4.0_x86-jp.exe)  
-シェル統合型ハッシュ計算アプリ「[HashCheck](https://github.com/gurnec/HashCheck)」の日本語文字列＆プロパティUIの改善パッチ(インストーラー)です。  
+[HashCheck_v2.4.0_x86-jp.exe](https://github.com/Rukoto/Study-Room/raw/master/HashCheck-2.4.0-Japanese-Patch/HashCheck_v2.4.0_x86-jp.exe)
+
 ①HashCheck_v2.4.0_xXX-jp.exe(自己解凍書庫)実行して、出来上がったフォルダをまるごと C:\ 直下に移動  
 ②install.bat を右クリックして「管理者として実行」  
 ③HashCheck_v2.4.0_xXX-jp.exe と C:\HashCheck_v2.4.0_xXX-jp のフォルダが不要になるので削除  
@@ -49,18 +62,22 @@ Windows7 32-bit、Windows10 64-bit のみ動作確認。暇つぶしで作成し
 
 ---
 ## 「JPEG Cleaner Ver.1.33」UI 改善パッチ
-[JPEG_Cleaner-1.33-UI_fix.exe](https://github.com/Rukoto/Study-Room/raw/master/JPEG_Cleaner-1.33-UI_fix-Patch/JPEG_Cleaner-1.33-UI_fix.exe)  
 JPEG ファイルの不要データを除去するアプリ「[JPEG Cleaner](http://hp.vector.co.jp/authors/VA012780/graphic.htm#JPEG_Cleaner)」を、  
 Windows 10 で実行した際に UI が崩れてしまうのを改善するパッチです。ただそれだけ。  
-非常に古いアプリですが、不要データ除去の最終工程として愛用しています。  
+非常に古いアプリですが、不要データ除去の最終工程として愛用しています。
+
+[JPEG_Cleaner-1.33-UI_fix.exe](https://github.com/Rukoto/Study-Room/raw/master/JPEG_Cleaner-1.33-UI_fix-Patch/JPEG_Cleaner-1.33-UI_fix.exe)
+
 開発された「[伊月めい](http://hp.vector.co.jp/authors/VA012780/)」氏に感謝。
 
 ---
 ## 「NC2DXF3D Ver.1.09」UI 改善パッチ
-[NC2DXF3D-1.09-UI_fix.exe](https://github.com/Rukoto/Study-Room/raw/master/NC2DXF3D-1.09-UI_fix-Patch/NC2DXF3D-1.09-UI_fix.exe)  
 NC データを DXF データに変換するアプリ「[NC2DXF3D](http://www.vector.co.jp/soft/win95/business/se286206.html)」を、  
 Windows 10 で実行した際に UI が崩れてしまうのを改善するパッチです。ただそれだけ。  
-非常に古いアプリですが、職場で緊急用の変換ツールとして使用しています。  
+非常に古いアプリですが、職場で緊急用の変換ツールとして使用しています。
+
+[NC2DXF3D-1.09-UI_fix.exe](https://github.com/Rukoto/Study-Room/raw/master/NC2DXF3D-1.09-UI_fix-Patch/NC2DXF3D-1.09-UI_fix.exe)
+
 開発された「かずばん」氏に感謝。
 
 ---
