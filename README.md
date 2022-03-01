@@ -40,7 +40,7 @@ Webページの一部は翻訳者に変更できない部分があるため、�
 
 ---
 ## 「Howard Ver.1.94」日本語化パッチ
-メールチェッカー「[Homedale](https://www.the-sz.com/products/homedale/)」を日本語化するパッチです。  
+メールチェッカー「[Howard](https://www.the-sz.com/products/howard/)」を日本語化するパッチです。  
 公式翻訳に対して、追加の翻訳、訳文修正、および UI フォントを変更します。  
 小生が手を加えた部分は権利放棄します。作者に迷惑をかけなければ自由にお使いください。
 
@@ -104,13 +104,3 @@ PSWindowsUpdate を使用した Windows の更新プログラムの管理も可�
 「WuMgr」のほうが圧倒的に便利なので、PSWindowsUpdate モジュールの使用は非推奨。
 
 -「W10Privacy」の著作権は Bernd Schuster氏 にあります。
-
----
-## 「Windows Update MiniTool 20.12.2016」日本語言語ファイル
-サードパーティ製 Windows Update クライアント「[Windows Update MiniTool](http://forum.ru-board.com/topic.cgi?forum=5&topic=48142)」の日本語言語ファイルです。  
-「WuMgr」と同期させるために、あえていくつかの訳文が原文と合致していません。  
-上位互換となる「WuMgr」は Windows 10 専用なので、それ以前の環境の方向けです。
-
-ダウンロード: [wumt_lang.ini](https://github.com/Rukoto/Toy-Box/raw/master/Windows_Update_MiniTool-Japanese-Language-File/wumt_lang.ini)
-
-元となった日本語言語ファイルを公開されている [しろみち氏](http://ch.nicovideo.jp/lunaorbit/blomaga/ar1003976) に感謝。
