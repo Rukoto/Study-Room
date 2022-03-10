@@ -104,3 +104,9 @@ PSWindowsUpdate を使用した Windows の更新プログラムの管理も可�
 「WuMgr」のほうが圧倒的に便利なので、PSWindowsUpdate モジュールの使用は非推奨。
 
 -「W10Privacy」の著作権は Bernd Schuster氏 にあります。
+
+---
+## 「Windows 11 Classic Context Menu Ver.1.1」日本語対応言語ファイル
+コンテキストメニューチェンジャー「[Windows 11 Classic Context Menu](https://www.sordum.org/14479/windows-11-classic-context-menu-v1-1/)」の言語ファイルを更新していました。
+
+-「Windows 11 Classic Context Menu」の著作権は Sordum.org. にあります。
