@@ -71,6 +71,17 @@ Windows 10 で実行した際に UI が崩れてしまうのを改善するパ�
 開発された「[伊月めい](http://hp.vector.co.jp/authors/VA012780/)」氏に感謝。
 
 ---
+## 「Mem Reduct Ver.3.4」日本語言語ファイル (作業用)
+メモリ管理アプリ「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
+公式のアップデート機能がありますので、通常は公式版のままご使用ください。
+
+「simplewall」と同じ作者が作成しているアプリで、小生は使用していないのですが  
+翻訳を比較していたら修正すべき訳文が多すぎるので、ついでで直しました。
+
+[COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
+-「Mem Reduct」の著作権は Henry++氏 にあります。
+
+---
 ## 「NC2DXF3D Ver.1.09」UI 改善パッチ
 NC データを DXF データに変換するアプリ「[NC2DXF3D](http://www.vector.co.jp/soft/win95/business/se286206.html)」を、  
 Windows 10 で実行した際に UI が崩れてしまうのを改善するパッチです。ただそれだけ。  
@@ -82,10 +93,10 @@ Windows 10 で実行した際に UI が崩れてしまうのを改善するパ�
 
 ---
 ## 「simplewall Ver.3.6.1」日本語言語ファイル (作業用)
-その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新していました。  
+その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
 公式のアップデート機能がありますので、通常は公式版のままご使用ください。
 
-友人からの依頼品でしたが、COMODO に戻したそうなので更新を終了します。
+友人からの依頼品でしたが、COMODO に戻したそうなので更新は暇なときに。
 
 [COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
 -「simplewall」の著作権は Henry++氏 にあります。
