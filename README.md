@@ -39,12 +39,12 @@ Webページの一部は翻訳者に変更できない部分があるため、�
 なお、「Bandicam」とこれらのアプリは管轄が違い、小生は「Bandicam」との関わりは一切ございません。
 
 ---
-## 「Howard Ver.1.94」日本語化パッチ
+## 「Howard Ver.1.95」日本語化パッチ
 メールチェッカー「[Howard](https://www.the-sz.com/products/howard/)」を日本語化するパッチです。  
 公式翻訳に対して、追加の翻訳、訳文修正、および UI フォントを変更します。  
 小生が手を加えた部分は権利放棄します。作者に迷惑をかけなければ自由にお使いください。
 
-ダウンロード: [Howard-1.94-jp.exe](https://github.com/Rukoto/Study-Room/raw/master/Howard-Japanese-Patch/Howard-1.94-jp.exe)
+ダウンロード: [Howard-1.95-jp.exe](https://github.com/Rukoto/Study-Room/raw/master/Howard-Japanese-Patch/Howard-1.95-jp.exe)
 
 -「Howard」の著作権は the sz development にあります。
 
