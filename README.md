@@ -70,7 +70,7 @@ Windows 10 で実行した際に UI が崩れてしまうのを改善するパ�
 開発された「[伊月めい](http://hp.vector.co.jp/authors/VA012780/)」氏に感謝。
 
 ---
-## 「Mem Reduct Ver.3.4」日本語言語ファイル (作業用)
+## 「Mem Reduct Ver.3.4」日本語対応言語ファイル (作業用)
 メモリ管理アプリ「[Mem Reduct](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
 公式のアップデート機能がありますので、通常は公式版のままご使用ください。
 
@@ -92,7 +92,7 @@ Windows 10 で実行した際に UI が崩れてしまうのを改善するパ�
 開発された「かずばん」氏に感謝。
 
 ---
-## 「simplewall Ver.3.6.3」日本語言語ファイル (作業用)
+## 「simplewall Ver.3.6.3」日本語対応言語ファイル (作業用)
 その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
 公式のアップデート機能がありますので、通常は公式版のままご使用ください。
 
@@ -102,7 +102,7 @@ Windows 10 で実行した際に UI が崩れてしまうのを改善するパ�
 -「simplewall」の著作権は Henry++氏 にあります。
 
 ---
-## 「W10Privacy Ver.3.8.0.0」日本語対応言語ファイル
+## 「W10Privacy Ver.3.8.0.0」日本語言語ファイル
 Windows のプライバシー設定管理アプリ「[W10Privacy](https://www.w10privacy.de/)」の言語ファイルを更新していました。  
 機能的な部分の翻訳のみ完了させたものです。設定項目は翻訳しません。  
 
@@ -121,3 +121,17 @@ PSWindowsUpdate を使用した Windows の更新プログラムの管理も可�
 コンテキストメニューチェンジャー「[Windows 11 Classic Context Menu](https://www.sordum.org/14479/windows-11-classic-context-menu-v1-1/)」の言語ファイルを更新していました。
 
 -「Windows 11 Classic Context Menu」の著作権は Sordum.org. にあります。
+
+---
+## 「XnView MP Ver.1.0」「XnConvert Ver.1.95」日本語言語ファイル
+イメージビューアー「[XnView MP](https://www.xnview.com/en/xnviewmp/)」の言語ファイルを更新していました。  
+イメージコンバーター「[XnConvert](https://www.xnview.com/en/xnconvert/)」と言語ファイルは兼用です。
+
+「[XnView Software Forum](https://newsgroup.xnview.com/viewtopic.php?f=78&t=21065)」より取得ください。
+
+イメージビューアーの調査中に、本アプリの翻訳が放置状態だったので対応。  
+兼用だけど歯抜けがあったり、同時リリースしないため相互互換性に少々問題あり。  
+言語ファイルとソースを投稿しましたが、公式の翻訳者になる気はないです。
+AVIF からのバッチコンバートに使用した程度なので、今後の更新予定はありません。
+
+-「XnView MP」「XnConvert」の著作権は XnSoft にあります。
