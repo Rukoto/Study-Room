@@ -102,16 +102,6 @@ Windows 10 で実行した際に UI が崩れてしまうのを改善するパ�
 開発された「かずばん」氏に感謝。
 
 ---
-## 「simplewall Ver.3.6.3」日本語対応言語ファイル (作業用)
-その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
-公式のアップデート機能がありますので、通常は公式版のままご使用ください。
-
-友人からの依頼品でしたが、COMODO に戻したそうなので更新は暇なときに。
-
-[COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
--「simplewall」の著作権は Henry++氏 にあります。
-
----
 ## 「W10Privacy Ver.3.8.0.0」日本語言語ファイル
 Windows のプライバシー設定管理アプリ「[W10Privacy](https://www.w10privacy.de/)」の言語ファイルを更新していました。  
 機能的な部分の翻訳のみ完了させたものです。設定項目は翻訳しません。  
