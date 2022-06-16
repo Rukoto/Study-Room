@@ -9,7 +9,7 @@
 
 ---
 ## 「Adblock Plus for IE Ver.1.6」日本語環境対応パッチ
-広告をブロックする IE のアドオン「[Adblock Plus for IE](https://adblockplus.org/)」の日本語環境対応パッチを更新しています。  
+広告をブロックする IE のアドオン「[Adblock Plus for IE](https://adblockplus.org/)」の日本語環境対応パッチを更新していました。  
 言語ファイルのわずかな修正と、[もちフィルタ](http://pokapoka.html.xdomain.jp/)の購読設定を連続して行うパッチとなっています。
 
 ダウンロード: [Adblock_Plus_for_IE-1.6jp.exe](https://github.com/Rukoto/Study-Room/raw/master/Adblock_Plus_for_IE-Japanese-Patch/Adblock_Plus_for_IE-1.6jp.exe)
@@ -39,13 +39,11 @@ Ver.7.1.1 からローカリゼーションツール頼みの酷い翻訳にな�
 
 ---
 ## 「COMODO Internet Security」日本語言語ファイル
-「CISまとめWiki」が逝ったので置いておきます。
+「[CISまとめWiki](https://comodo.qawsedrftgyhujikolp.net/?FrontPage)」に公開されていたものです。
 
 Ver.8.4.0.5165 用: [CIS_8.4.0.5165_jp_20181030.zip](https://github.com/Rukoto/Study-Room/raw/master/COMODO_Internet_Security-Japanese-Language-File/CIS_8.4.0.5165_jp_20181030.zip)  
 Ver.10.0.1.6294 用: [CIS_10.0.1.6294_jp_20181030.zip](https://github.com/Rukoto/Study-Room/raw/master/COMODO_Internet_Security-Japanese-Language-File/CIS_10.0.1.6294_jp_20181030.zip)  
 Ver.10.1.0.6476 用: [CIS_10.1.0.6476_jp_20181030.zip](https://github.com/Rukoto/Study-Room/raw/master/COMODO_Internet_Security-Japanese-Language-File/CIS_10.1.0.6476_jp_20181030.zip)
-
-[CISまとめWiki - 日本語化 (Internet Archive)]https://web.archive.org/web/20210614221630/http://comodo.qawsedrftgyhujikolp.net/?%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96
 
 ---
 ## 「Howard Ver.1.95」日本語化パッチ
