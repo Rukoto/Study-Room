@@ -34,6 +34,7 @@ Ver.7.1.1 からローカリゼーションツール頼みの酷い翻訳にな�
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新していました。
 
 現在は[MassiGra](http://www.massigra.net/)」に移行したため、翻訳作業から離脱致しました。  
+「Honeyview」の後継で「BandiView」を開発中とのことですが、「MassiGra」で十分です。
 
 余談ですが、「Bandicam」と「Bandizip」他は管轄が違うのだそうです。
 
@@ -44,6 +45,20 @@ Ver.7.1.1 からローカリゼーションツール頼みの酷い翻訳にな�
 Ver.8.4.0.5165 用: [CIS_8.4.0.5165_jp_20181030.zip](https://github.com/Rukoto/Study-Room/raw/master/COMODO_Internet_Security-Japanese-Language-File/CIS_8.4.0.5165_jp_20181030.zip)  
 Ver.10.0.1.6294 用: [CIS_10.0.1.6294_jp_20181030.zip](https://github.com/Rukoto/Study-Room/raw/master/COMODO_Internet_Security-Japanese-Language-File/CIS_10.0.1.6294_jp_20181030.zip)  
 Ver.10.1.0.6476 用: [CIS_10.1.0.6476_jp_20181030.zip](https://github.com/Rukoto/Study-Room/raw/master/COMODO_Internet_Security-Japanese-Language-File/CIS_10.1.0.6476_jp_20181030.zip)
+
+---
+## 「CPU-Z Ver.2.04.0」日本語化パッチ
+ハードウェア情報確認ユーティリティ「[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)」には [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100325/cpuz) の日本語化パッチがありますが、  
+UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開していました。
+
+ダウンロード (20230127033812): [CPU-Z-2.04.0_x64-jp-20230127033812.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z-Japanese-Patch/CPU-Z-2.04.0_x64-jp-20230127033812.exe)
+
+同一バージョンのまま差し替えることがあるらしく、ZIP ファイルのタイムスタンプを明記。  
+セットアップ版は対象ファイル名を cpuz_x64.exe に変更すれば適用できます。x86 版の作成予定はありません。
+
+本アプリを日本語化する意義を感じないので更新終了。
+
+-「CPU-Z」の著作権は Franck Delattre氏 にあります。
 
 ---
 ## 「Howard Ver.1.95」日本語化パッチ
