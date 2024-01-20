@@ -51,7 +51,7 @@ Ver.10.1.0.6476 用: [CIS_10.1.0.6476_jp_20181030.zip](https://github.com/Rukoto
 ハードウェア情報確認ユーティリティ「[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)」には [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100325/cpuz) の日本語化パッチがありますが、  
 UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開していました。
 
-ダウンロード (20230127033812): [CPU-Z-2.04.0_x64-jp-20230127033812.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z-Japanese-Patch/CPU-Z-2.04.0_x64-jp-20230127033812.exe)
+ダウンロード (20230127033812): [CPU-Z-2.04.0_x64-jp-20230127033812.exe](https://github.com/Rukoto/Study-Room/raw/master/CPU-Z-Japanese-Patch/CPU-Z-2.04.0_x64-jp-20230127033812.exe)
 
 同一バージョンのまま差し替えることがあるらしく、ZIP ファイルのタイムスタンプを明記。  
 セットアップ版は対象ファイル名を cpuz_x64.exe に変更すれば適用できます。x86 版の作成予定はありません。
@@ -59,6 +59,16 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 本アプリを日本語化する意義を感じないので更新終了。
 
 -「CPU-Z」の著作権は Franck Delattre氏 にあります。
+
+---
+## 「Fort Firewall Ver.3.6.1」日本語言語ファイル
+パーソナルファイアウォールアプリ「[Fort Firewall](https://github.com/tnodir/fort)」の日本語言語ファイルを更新していました。  
+5ch でのリクエストに応えて作成しましたが、需要なさそうなので更新終了。
+
+ダウンロード: [i18n_ja.qm](https://github.com/Rukoto/Study-Room/raw/master/Fort_Firewall-Japanese-Language-File/i18n_ja.qm)
+
+[COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
+-「Fort Firewall」の著作権は Nodir Temirkhodjaev氏 にあります。
 
 ---
 ## 「Howard Ver.1.95」日本語化パッチ
