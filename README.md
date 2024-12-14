@@ -10,7 +10,7 @@
 ---
 ## 「Adblock Plus for IE Ver.1.6」日本語環境対応パッチ
 広告をブロックする IE のアドオン「[Adblock Plus for IE](https://adblockplus.org/)」の日本語環境対応パッチを更新していました。  
-言語ファイルのわずかな修正と、[もちフィルタ](http://pokapoka.html.xdomain.jp/)の購読設定を連続して行うパッチとなっています。
+言語ファイルのわずかな修正と、[もちフィルタ](https://eeii0a5l.github.io/mochifilter_homepage/mochi.html)の購読設定を連続して行うパッチとなっています。
 
 ダウンロード: [Adblock_Plus_for_IE-1.6jp.exe](https://github.com/Rukoto/Study-Room/raw/master/Adblock_Plus_for_IE-Japanese-Patch/Adblock_Plus_for_IE-1.6jp.exe)
 
@@ -31,7 +31,7 @@ Ver.7.1.1 からローカリゼーションツール頼みの酷い翻訳にな�
 ## 「Honeycam Ver.4.10」日本語言語ファイル/Webページ
 ## 「Honeyview Ver.5.46」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](https://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
-および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新していました。
+および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/honeyview/)」の日本語の言語ファイル/Webページを更新していました。
 
 現在は[MassiGra](http://www.massigra.net/)」に移行したため、翻訳作業から離脱致しました。  
 「Honeyview」の後継で「BandiView」を開発中とのことですが、「MassiGra」で十分です。
@@ -104,7 +104,7 @@ Windows 10 で実行した際に UI が崩れてしまうのを改善するパ�
 
 ---
 ## 「Mem Reduct Ver.3.4」日本語対応言語ファイル (作業用)
-メモリ管理アプリ「[Mem Reduct](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
+メモリ管理アプリ「[Mem Reduct](https://github.com/henrypp/memreduct)」の日本語言語ファイルを更新しています。  
 公式のアップデート機能がありますので、通常は公式版のままご使用ください。
 
 「simplewall」と同じ作者が作成しているアプリで、小生は使用していないのですが  
