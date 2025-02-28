@@ -71,6 +71,15 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Fort Firewall」の著作権は Nodir Temirkhodjaev氏 にあります。
 
 ---
+## 「Homedale Ver.2.18」日本語環境対応パッチ
+WiFi/WLAN モニターアプリ「[Homedale](https://www.the-sz.com/products/homedale/)」を日本語環境対応するパッチを更新していました。  
+公式が日本語環境に必要な対応を取ったようなので、当方のパッチはこれが最終盤となります。
+
+ダウンロード: [Homedale-2.18-jp.exe](https://github.com/Rukoto/Study-Room/raw/master/Homedale-Japanese-Patch/Homedale-2.18-jp.exe)
+
+-「Homedale」の著作権は the sz development にあります。
+
+---
 ## 「Howard Ver.1.95」日本語化パッチ
 メールチェッカー「[Howard](https://www.the-sz.com/products/howard/)」を日本語化するパッチです。  
 公式翻訳に対して、追加の翻訳、訳文修正、および UI フォントを変更します。  
