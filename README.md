@@ -102,6 +102,27 @@ WiFi/WLAN モニターアプリ「[Homedale](https://www.the-sz.com/products/hom
 Windows7 32-bit、Windows10 64-bit のみ動作確認。暇つぶしで作成した為、今後の更新予定はありません。
 
 ---
+## 「ImDisk Toolkit 20250206」日本語化ファイル
+仮想ドライブ作成アプリ「[ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/)」の日本語化ファイルを更新していました。
+
+ダウンロード (20241123 / 20250206 用): [ImDiskTk-20241123-jp.zip](https://github.com/Rukoto/Study-Room/raw/master/ImDisk_Toolkit-Japanese-File/ImDiskTk-20241123-jp.zip)
+
+インストール時にセットアップファイルを日本語化する使い方になりますので、  
+公式の files.cab と同じディレクトリに上記 Zip ファイルの中身を展開し、  
+install_jp.bat を実行するだけです。言語は「English」を指定する必要があります。
+
+一部は意図的に翻訳しておりません。(ショートカット名やコンテキストメニュー)
+
+後継の「[AIM Toolkit](https://sourceforge.net/projects/aim-toolkit/)」が日本語対応したことを期に更新を終了しました。  
+当方のパッチには翻訳誤りが残ったままですが、私も AIM に移行しているので対応しません。
+
+2025年9月時点での AIM の日本語訳には MS スタイルガイドからの逸脱が多い印象がありますが、  
+公式の翻訳者が対応されるの事を期待しています。私には貢献する気力がございませんので。
+
+[COPYING (WTFPL)](http://www.wtfpl.net/)  
+-「ImDisk Toolkit」の著作権は Olof氏、v77氏、Kenneth Bell氏、その他の方々にあります。
+
+---
 ## 「JPEG Cleaner Ver.1.33」UI 改善パッチ
 JPEG ファイルの不要データを除去するアプリ「[JPEG Cleaner](http://hp.vector.co.jp/authors/VA012780/graphic.htm#JPEG_Cleaner)」を、  
 Windows 10 で実行した際に UI が崩れてしまうのを改善するパッチです。ただそれだけ。  
